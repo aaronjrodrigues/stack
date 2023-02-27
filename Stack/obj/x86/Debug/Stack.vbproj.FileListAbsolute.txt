@@ -1,0 +1,8 @@
+C:\Aaron\Stack\Stack\bin\Debug\Stack.exe
+C:\Aaron\Stack\Stack\bin\Debug\Stack.pdb
+C:\Aaron\Stack\Stack\bin\Debug\Stack.xml
+C:\Aaron\Stack\Stack\obj\x86\Debug\Stack.Resources.resources
+C:\Aaron\Stack\Stack\obj\x86\Debug\Stack.vbproj.GenerateResource.Cache
+C:\Aaron\Stack\Stack\obj\x86\Debug\Stack.exe
+C:\Aaron\Stack\Stack\obj\x86\Debug\Stack.xml
+C:\Aaron\Stack\Stack\obj\x86\Debug\Stack.pdb
